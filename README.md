@@ -1,10 +1,10 @@
 # SwiftUI-KeyAnimationApp
 
-SwiftUI-KeyAnimationApp is an interactive spinning keychain animation application developed using the native iOS framework, specifically the #swiftui framework.
+SwiftUI-KeyAnimationApp is an interactive spinning keychain animation developed using the native iOS framework, specifically the #swiftui framework.
 
-Hello there, I'm Saumil Shah and in this repository, I'll be posting the code for Apple's keychain design in this repository.
+Hello there, I'm Saumil Shah and in this repository, I'll be posting the code for keychain design and animation inspired from Apple.
 
-I hope you'll learn something new and use these and concepts to achieve great animation effects and more for your apps.
+I hope you'll learn something new and use these concepts to achieve great animation effects and more for your apps.
 
 https://github.com/user-attachments/assets/c2b27425-6b1f-4ada-84f3-58f716034e1f
 
